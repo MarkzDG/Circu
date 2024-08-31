@@ -1,0 +1,4 @@
+[submodule "Circulacion-General-FCEN"]
+	path = Circulacion-General-FCEN
+	url = https://github.com/dbrisaro/Circulacion-General-FCEN.git
+	branch = CG-2024
